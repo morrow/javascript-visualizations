@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Changa+One');
+
 body {
+  font-family:"Changa One";
   padding:0;
   margin:0;
   display: flex;
@@ -9,6 +12,6 @@ body {
 }
 
 #target {
-  font-family:sans-serif;
-  font-size:15vw;
+  font-size:12vw;
+  color:white;
 }

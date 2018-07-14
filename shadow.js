@@ -1,8 +1,8 @@
 window.moveShadow = (e)=> {
   // maxmimum shadow distance
-  let max_shadow = 30
+  let max_shadow = 50
   // shadow color
-  let color = 'rgba(0,0,0,0.5)'
+  let color = 'rgba(0,0,0,0.25)'
   // get center window position
   let center_x = window.innerWidth / 2
   let center_y = window.innerHeight / 2
